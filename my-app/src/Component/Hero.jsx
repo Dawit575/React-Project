@@ -5,6 +5,7 @@ function Hero() {
     <div>
       <h1>This is Hero Page!</h1>
       <img src={Hero} alt="" />
+      
     </div>
   )
 }
