@@ -1,4 +1,4 @@
-import './pages.css';
+import './Gallery.css';
 
 const Gallery = () => {
   const images = [

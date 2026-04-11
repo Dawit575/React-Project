@@ -1,8 +1,7 @@
-import Header from './components/Header';
-import Home from './components/Home';
-import About from './components/About';
-import Gallery from './components/Gallery';
-import Contact from './components/Contact';
+import Header from './Componenet/header/Header'
+import About from './Componenet/about/About'
+import Gallery from './Componenet/gallery/Gallery'
+import Contact from './Componenet/contact/Contact'
 import './App.css';
 
 function App() {
@@ -10,7 +9,6 @@ function App() {
     <div className="App">
       <Header />
       <main>
-        <Home />
         <About />
         <Gallery />
         <Contact />
